@@ -1,4 +1,4 @@
-# BF4-STUFF
+# Battlefield 4 Stuff
 
 Dynamically dumps the typeinfos, uses SettingsManager.
 
